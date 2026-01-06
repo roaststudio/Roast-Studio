@@ -1,0 +1,13 @@
+project_id = "vwmmkbxbqagvpzgirmly"
+
+[functions.generate-roast]
+verify_jwt = false
+
+[functions.text-to-speech]
+verify_jwt = false
+
+[functions.session-manager]
+verify_jwt = false
+
+[functions.transcribe-audio]
+verify_jwt = false
